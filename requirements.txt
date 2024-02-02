@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+numpy
+opencv-python
+joblib
+keras
+mtcnn
+dlib
+face-recognition
+tensorflow
